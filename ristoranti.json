@@ -11,9 +11,27 @@
     {
         "nome": "La Loggetta",
         "tipologia": "carne pesce pizza",
-        "img": "url(img/prova.jpg)",
-        "indirizzo": "Via Pietro Morelli, 9, 81055 Santa Maria Capua Vetere CE",
+        "img": "img/loggetta.jpg",
+        "indirizzo": "Piazza Mazzini, 13, 81055 Santa Maria Capua Vetere CE",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Tk1G65iDFmcy5uSeA"
+    },
+
+    {
+        "nome": "Rosticceria Quadrifoglio",
+        "tipologia": "pizza",
+        "img": "img/quadrifoglio.jpg",
+        "indirizzo": "Corso Aldo Moro, 167, 81055 Santa Maria Capua Vetere CE",
+        "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
+        "mappa": "https://goo.gl/maps/Gu4RyJjuTvHrMirr9"
+    },
+
+    {
+        "nome": "Ristorante La Botte",
+        "tipologia": "pesce, carne, primi piatti",
+        "img": "img/labotte.jpg",
+        "indirizzo": "piazzetta Enrico Malatesta, 1, 81055 Santa Maria Capua Vetere CE",
+        "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
+        "mappa": "https://goo.gl/maps/Gu4RyJjuTvHrMirr9"
     }
 ]
