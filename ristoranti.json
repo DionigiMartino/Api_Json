@@ -1,8 +1,8 @@
 [
     {   
         "nome": "La spelunca",
-        "tipologia": "carne, pesce, pizza",
-        "img": "url(img/prova.jpg)",
+        "tipologia": "carne pesce pizza",
+        "img": "img/spelunca.jpg",
         "indirizzo": "Via Pietro Morelli, 9, 81055 Santa Maria Capua Vetere CE",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Tk1G65iDFmcy5uSeA"
@@ -10,7 +10,7 @@
 
     {
         "nome": "La Loggetta",
-        "tipologia": "carne, pesce, pizza",
+        "tipologia": "carne pesce pizza",
         "img": "url(img/prova.jpg)",
         "indirizzo": "Via Pietro Morelli, 9, 81055 Santa Maria Capua Vetere CE",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
