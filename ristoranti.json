@@ -1,0 +1,13 @@
+[
+    {   "nome": "la spelunca",
+        "tipologia": "carne, pesce, pizza",
+        "img": "url(img/prova.jpg)",
+        "indirizzo": "Via Pietro Morelli, 9, 81055 Santa Maria Capua Vetere CE",
+        "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
+        "mappa": "https://goo.gl/maps/Tk1G65iDFmcy5uSeA"
+    },
+
+    {
+
+    }
+]
