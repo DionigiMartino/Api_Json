@@ -3,7 +3,7 @@
         "nome": "La spelunca",
         "tipologia": "carne, pesce, pizza",
         "img": "img/spelunca.jpg",
-        "indirizzo": "Via Pietro Morelli, 9, 81055 Santa Maria Capua Vetere CE",
+        "indirizzo": "Via Pietro Morelli, 9",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Tk1G65iDFmcy5uSeA",
         "position": "Santa Maria Capua Vetere"
@@ -13,7 +13,7 @@
         "nome": "La Loggetta",
         "tipologia": "carne, pesce, pizza",
         "img": "img/loggetta.jpg",
-        "indirizzo": "Piazza Mazzini, 13, 81055 Santa Maria Capua Vetere CE",
+        "indirizzo": "Piazza Mazzini, 13",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Tk1G65iDFmcy5uSeA",
         "position": "Santa Maria Capua Vetere"
@@ -23,7 +23,7 @@
         "nome": "Rosticceria Quadrifoglio",
         "tipologia": "pizza",
         "img": "img/quadrifoglio.jpg",
-        "indirizzo": "Corso Aldo Moro, 167, 81055 Santa Maria Capua Vetere CE",
+        "indirizzo": "Corso Aldo Moro, 167",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Gu4RyJjuTvHrMirr9",
         "position": "Santa Maria Capua Vetere"
@@ -33,7 +33,7 @@
         "nome": "Ristorante La Botte",
         "tipologia": "pesce, carne, primi piatti",
         "img": "img/labotte.jpg",
-        "indirizzo": "piazzetta Enrico Malatesta, 1, 81055 Santa Maria Capua Vetere CE",
+        "indirizzo": "piazzetta Enrico Malatesta, 1",
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Gu4RyJjuTvHrMirr9",
         "position": "Santa Maria Capua Vetere"
