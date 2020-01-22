@@ -37,5 +37,15 @@
         "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
         "mappa": "https://goo.gl/maps/Gu4RyJjuTvHrMirr9",
         "position": "Santa Maria Capua Vetere"
+    },
+
+    {
+        "nome": "Ristorante FoFo",
+        "tipologia": "pizza, carne, primi piatti",
+        "img": "img/fofo.jpg",
+        "indirizzo": "Via Unità Italiana, 64",
+        "menu": "peperoni fritti, hamburger di black angus 200gr, maionese alla messicana, fior di latte, crumble di bacon.",
+        "mappa": "https://goo.gl/maps/Gu4RyJjuTvHrMirr9",
+        "position": "Santa Maria Capua Vetere"
     }
 ]
